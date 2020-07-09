@@ -13,7 +13,6 @@ import java.util.Scanner;
 public class TestMain {
 
 	public static void main(String[] args) throws IOException, ClassNotFoundException {
-
 		int choice = 0, option = 0, ownerId, busN, parkN,searchId;
 		String owner, manufact, coloR, plateNum = "NULL", modeL, licenseT, typE, fuelTypE;
 		Scanner input = new Scanner(System.in);
